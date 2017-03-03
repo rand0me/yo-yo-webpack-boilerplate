@@ -1,6 +1,6 @@
 yo-yo-webpack-boilerplate
 ====================
-yo-yo, webpack 2, yarn, standard, standard-version, commitizen, cz-conventional-changelog minimalist boilerplate
+[yo-yo], [webpack], [yarn], [standard], [standard-version], [commitizen] minimalist boilerplate
 ----------------------------------------------------------------------------------------------
 
 ## Getting Started
@@ -55,3 +55,10 @@ or
 ```
 npm run fix
 ```
+
+[yo-yo]: https://github.com/maxogden/yo-yo
+[webpack]: https://webpack.js.org/
+[yarn]: https://yarnpkg.com/en/
+[standard]: http://standardjs.com/
+[standard-version]: https://github.com/conventional-changelog/standard-version
+[commitizen]: https://github.com/commitizen/cz-cli
