@@ -1,0 +1,27 @@
+{
+  "name": "yo-yo-webpack-boilerplate",
+  "version": "0.0.0",
+  "main": "app/index.js",
+  "author": "rand0me",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --open",
+    "lint": "standard",
+    "fix": "standard --fix",
+    "release": "standard-version"
+  },
+  "dependencies": {
+    "transform-loader": "^0.2.4",
+    "webpack": "^2.2.1",
+    "yo-yo": "^1.4.0",
+    "yo-yoify": "^3.5.0"
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
+    "standard": "^9.0.0",
+    "standard-version": "^4.0.0",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
