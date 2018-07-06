@@ -1,5 +1,8 @@
 yo-yo-webpack-boilerplate
 ====================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/yo-yo-webpack-boilerplate.svg)](https://greenkeeper.io/)
+
 [yo-yo], [webpack], [yarn], [standard], [standard-version], [commitizen] minimalist boilerplate
 ----------------------------------------------------------------------------------------------
 
